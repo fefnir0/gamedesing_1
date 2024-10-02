@@ -1,0 +1,69 @@
+import sys
+
+print(sys.version)
+
+#numbers
+
+print("hello ai")
+
+# run selection
+# first select the code and then shift + alt + e
+print("hello ai")
+# if you want to bring back what you did do CMD + z
+# for hastag press alt + 3
+
+5,5
+
+3 + 2
+
+if 9 > 3:
+    print("nine is greater than three")
+type(3)
+type(100)
+type(5.5)
+type("kemal")
+
+# this is a comment
+print("hello world")
+
+def multiplation(x, y):
+    """this is a function comment"""
+
+
+print(x*y)
+
+multiplation(2 ,4)
+
+var1 = 3
+var2 = 5
+print(var1)
+print(var2)
+
+
+x = 9.3
+type(x)
+
+int(x)
+
+float(x)
+
+# float sadece kodun ondalığını gösterir type yazdığın sayıyı aynen int ise ondalıksız versiyonunu gösterir
+
+myvar = "kemal"
+my_var = "kemal"
+
+print(myvar)
+
+fruits = ("apple", "banana", "orange")
+x, y, z = fruits
+print(x)
+print(y)
+print(z)
+
+print(x, y, z)
+
+x = "fantastic"
+def myfunc():
+    x = "fatastic"
+
+import pandas as np
